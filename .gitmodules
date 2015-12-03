@@ -1,0 +1,3 @@
+[submodule "OpenVDB"]
+	path = OpenVDB
+	url = git@github.com:dreamworksanimation/openvdb.git
